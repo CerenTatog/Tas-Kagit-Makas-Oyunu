@@ -116,7 +116,7 @@ namespace tas_kagıt_makas_asil_uygulama
             }
             else if (kullaniciskor < bilgisayarskor)
             {
-                Console.WriteLine("KAYBETTİN. HA HA HAAAA!!!!!");
+                Console.WriteLine("KAYBETTİN. HA HA HAAAAaa!!!!!");
             }
             else if (kullaniciskor == bilgisayarskor)
             {
